@@ -10,7 +10,7 @@ https://www.acmicpc.net/problem/10989
 int main()
 {
 
-    int N,i,j;
+    int N,i,j; //if I use 'short' type it takes more time?
     int a[10001]={0,};
     int t;
     scanf("%d\n",&N);
