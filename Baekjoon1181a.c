@@ -1,6 +1,6 @@
 /*
 https://www.acmicpc.net/problem/1181 
-first try
+first try - 시간초과timeout
 */
 
 #include <stdio.h>
